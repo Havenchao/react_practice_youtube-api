@@ -1,5 +1,6 @@
-# ReduxSimpleStarter
+# Youtube API
 
+Learned all this from:
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
